@@ -1,6 +1,6 @@
 ._.
 
-"Three quarks for Muster Mark!"
+"Three quarks for Muster Mark!"\
 —《Finnegans Wake》．James Joyce
 <!---
 JackQuark/JackQuark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
