@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/Brownian-Motion-99/idealized-spectral-gcm">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brownian-Motion-99&repo=idealized-spectral-gcm&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&hide_border=false" alt="idealized-spectral-gcm" />
   </a>
-  <a href="https://https://github.com/cyinchang/ntuas-lab">
+  <a href="https://github.com/cyinchang/ntuas-lab">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyinchang&repo=ntuas-lab&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&hide_border=false" alt="ntuas-lab" />
   </a>
 </p>
@@ -44,8 +44,8 @@ You can click the Preview link to take a look at your changes.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" alt="Top Languages" />
+  <img src="https://github.com/JackQuark/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
+  <img src="https://github.com/JackQuark/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
 </p>
 
 <p align="center">
