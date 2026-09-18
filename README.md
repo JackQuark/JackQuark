@@ -4,8 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-  <em>"Three quarks for Muster Mark!"</em><br/>
-  —《Finnegans Wake》．James Joyce
+  <em>"Three quarks for Muster Mark!"</em><br/> —《Finnegans Wake》．James Joyce
 </p>
 
 ## About Me
@@ -29,17 +28,9 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ## Current Work & Collaborations
-<p align="left">
-  <a href="https://github.com/Brownian-Motion-99/idealized-spectral-gcm">
-    <img src="https://github-readme-stats.denvercoder1.com/api/pin/?username=Brownian-Motion-99&repo=idealized-spectral-gcm&theme=github_dark" alt="idealized-spectral-gcm" />
-  </a>
-  <a href="https://github.com/cyinchang/ntuas-lab">
-    <img src="https://github-readme-stats.denvercoder1.com/api/pin/?username=cyinchang&repo=ntuas-lab&theme=github_dark" alt="ntuas-lab" />
-  </a>
-</p>
 
-- [**idealized-spectral-gcm**](https://github.com/Brownian-Motion-99/idealized-spectral-gcm) — Idealized spectral dynamical core for atmospheric simulations
-- [**ntuas-lab**](https://github.com/cyinchang/ntuas-lab) — Research collaboration & lab models
+- [**idealized-spectral-gcm**](https://github.com/Brownian-Motion-99/idealized-spectral-gcm) — A light-weighted global circulation model (GCM) written in Julia
+- [**ntuas-lab**](https://github.com/cyinchang/ntuas-lab) — Research group hosted by Prof. Jenny
 
 ## GitHub Stats
 
